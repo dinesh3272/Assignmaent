@@ -38,3 +38,4 @@ value="text/html" mimeType="text/html"/>
         <set-property propertyName="Content-Type" value="text/html" mimeType="application/json" doc:name="Content Type"/>
     </flow>
 </mule>
+SDFD
